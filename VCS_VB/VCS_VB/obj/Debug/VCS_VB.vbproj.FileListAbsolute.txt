@@ -1,0 +1,13 @@
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\bin\Debug\VCS_VB.exe.config
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\bin\Debug\VCS_VB.exe
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\bin\Debug\VCS_VB.pdb
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\bin\Debug\VCS_VB.xml
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\obj\Debug\VCS_VB.vbproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\obj\Debug\VCS_VB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\obj\Debug\VCS_VB.CSV.Form1.resources
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\obj\Debug\VCS_VB.Resources.resources
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\obj\Debug\VCS_VB.vbproj.GenerateResource.cache
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\obj\Debug\VCS_VB.vbproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\obj\Debug\VCS_VB.exe
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\obj\Debug\VCS_VB.xml
+C:\Users\soned\Videos\programas VS\VCS_VB\VCS_VB\obj\Debug\VCS_VB.pdb
